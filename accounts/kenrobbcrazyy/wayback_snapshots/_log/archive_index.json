@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-11T23:42:45",
+  "last_updated": "2026-07-11T23:42:59",
   "html": {
     "https://web.archive.org/web/20260708042104if_/https://twitter.com/kenrobbcrazyy/status/2074710332019499382": {
       "status": "done",
@@ -67,12 +67,12 @@
   "videos": {},
   "avatars": {
     "https://pbs.twimg.com/profile_images/2068180632942055424/6qQQNQaG_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260620042150_twitter_com_kenrobbcrazyy_status_2068187545318645832.json",
         "20260620052034_twitter_com_kenrobbcrazyy_status_2068202325353910428.json"
       ],
-      "last_updated": "2026-07-11T23:29:55",
+      "last_updated": "2026-07-11T23:42:59",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260620052034if_/https://pbs.twimg.com/profile_images/2068180632942055424/6qQQNQaG_normal.jpg",
       "miss_count": 1
     },
@@ -120,7 +120,7 @@
   },
   "media": {
     "20260620042150_twitter_com_kenrobbcrazyy_status_2068187545318645832.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HLOtm1VaAAAdIHW.jpg"
@@ -130,11 +130,11 @@
           "https://pbs.twimg.com/profile_images/2068180632942055424/6qQQNQaG_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-11T23:40:03",
+      "last_updated": "2026-07-11T23:42:59",
       "miss_count": 2
     },
     "20260620052034_twitter_com_kenrobbcrazyy_status_2068202325353910428.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -142,7 +142,7 @@
           "https://pbs.twimg.com/profile_images/2068180632942055424/6qQQNQaG_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-11T23:40:03",
+      "last_updated": "2026-07-11T23:42:59",
       "miss_count": 2
     },
     "20260708034036_twitter_com_kenrobbcrazyy_status_2074700150166167980.json": {
