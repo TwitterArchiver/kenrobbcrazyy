@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2068179877334016000",
+    "conversation_id": "2074710332019499382",
+    "created_at": "2026-07-08T09:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074787089426915380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803609911215136769",
+          "start": 0,
+          "username": "pDwIj6gMsi50560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074787089426915380",
+    "in_reply_to_user_id": "1803609911215136769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074735238304108811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pDwIj6gMsi50560 我之前私信你了 请回来吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068179877334016000",
+        "conversation_id": "2074710332019499382",
+        "created_at": "2026-07-08T09:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074787089426915380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803609911215136769",
+              "start": 0,
+              "username": "pDwIj6gMsi50560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074787089426915380",
+        "in_reply_to_user_id": "1803609911215136769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074735238304108811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pDwIj6gMsi50560 我之前私信你了 请回来吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803609911215136769",
+        "conversation_id": "2074710332019499382",
+        "created_at": "2026-07-08T06:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074735238304108811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2068179877334016000",
+              "start": 0,
+              "username": "kenrobbcrazyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074735238304108811",
+        "in_reply_to_user_id": "2068179877334016000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074710332019499382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenrobbcrazyy 我想回归了，能不能让我回归啊？😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-20T03:52:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AM",
+              "full_name": "Armenia",
+              "geo": {
+                "coordinates": [
+                  45.0,
+                  40.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药物百科官方账号 有报告欢迎私信投稿 wiki主玄鸮:@Manglesuki｜提供免费药物咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/yN1sBv8r0G"
+              }
+            ]
+          }
+        },
+        "id": "2068179877334016000",
+        "location": "Leave me alone",
+        "name": "药物百科流亡政府",
+        "pinned_tweet_id": "2074700150166167980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074697509218451456/NpoLVx4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 17,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/yN1sBv8r0G",
+        "username": "kenrobbcrazyy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T02:05:02.000Z",
+        "description": "前Mediwiki药物百科编辑组成员，旧账号已死 @H061207Wjh   转生为新账号\n平平无奇的大一地雷妹   三级心理咨询师   偏好：药理/心理学/文学/精神病学/见证   有需要的可以随时私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "H061207Wjh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubake.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubake.ca",
+                "start": 0,
+                "url": "https://t.co/H8EOJUZms1"
+              }
+            ]
+          }
+        },
+        "id": "1803609911215136769",
+        "location": "南昌大学",
+        "name": "佐々木さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074151076446752769/wsnqW26Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 124,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/H8EOJUZms1",
+        "username": "pDwIj6gMsi50560",
+        "verified": false
+      }
+    ]
+  }
+}

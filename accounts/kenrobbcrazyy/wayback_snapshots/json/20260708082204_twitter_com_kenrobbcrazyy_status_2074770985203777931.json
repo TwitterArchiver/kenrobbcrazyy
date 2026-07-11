@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2068179877334016000",
+    "conversation_id": "2074770985203777931",
+    "created_at": "2026-07-08T08:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074770985203777931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ErQiu8013/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ErQiu8013/status/2074415591658783121",
+          "start": 8,
+          "url": "https://t.co/tYhliW8VMc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074770985203777931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074415591658783121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晚上好 药之城 https://t.co/tYhliW8VMc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068179877334016000",
+        "conversation_id": "2074770985203777931",
+        "created_at": "2026-07-08T08:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074770985203777931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ErQiu8013/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ErQiu8013/status/2074415591658783121",
+              "start": 8,
+              "url": "https://t.co/tYhliW8VMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074770985203777931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074415591658783121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚上好 药之城 https://t.co/tYhliW8VMc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735700650472955904",
+        "conversation_id": "2074415591658783121",
+        "created_at": "2026-07-07T08:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074415591658783121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074415591658783121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 998,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我来看o圈就是现实里的夜之城。\n有的人选择成为传奇名扬天下，活不到30岁，\n有的人躺在icu插着管子死去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-20T03:52:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AM",
+              "full_name": "Armenia",
+              "geo": {
+                "coordinates": [
+                  45.0,
+                  40.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药物百科官方账号 有报告欢迎私信投稿 wiki主玄鸮:@Manglesuki｜提供免费药物咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/yN1sBv8r0G"
+              }
+            ]
+          }
+        },
+        "id": "2068179877334016000",
+        "location": "Leave me alone",
+        "name": "药物百科流亡政府",
+        "pinned_tweet_id": "2074700150166167980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074697509218451456/NpoLVx4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/yN1sBv8r0G",
+        "username": "kenrobbcrazyy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "秋儿｜降临派×地雷系  \n低能量 + 薬changing + 二次元\nLGBTQ+友好\n欢迎同类互fo～私信聊天💊🫀\n高强度转低强度发推  \n下面匿名提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu8013",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu8013",
+                "start": 0,
+                "url": "https://t.co/bhxSdtgAac"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "night city",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "2060767852496630110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 1625,
+          "like_count": 24915,
+          "listed_count": 4,
+          "media_count": 719,
+          "tweet_count": 5319
+        },
+        "url": "https://t.co/bhxSdtgAac",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

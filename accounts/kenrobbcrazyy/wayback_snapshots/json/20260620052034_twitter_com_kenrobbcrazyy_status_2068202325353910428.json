@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2068179877334016000",
+    "conversation_id": "2068202325353910428",
+    "created_at": "2026-06-20T05:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068202325353910428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "精神至上，意识结晶化。 跳出平庸，感官结晶化。 官网： https://Crystallize.Club 本群不出售任何产品，不为任何交易担保请各位注意辨别高仿诈骗等！ 本群不含有以下成分 #rc #adhd #促智药 #overdose #抑郁症 #精神物质 #gay #mtf #自残 #跨性别 #nsfw #嗨操 #researchchemicals #nps #精神活性物质 #能材 #tscd #药娘 #伪娘 #同性恋 #灰产 #TCC #雌堕 #智能合约 #化学 #化工 #隐私极客",
+          "display_url": "t.me/CrystallizeClub",
+          "end": 34,
+          "expanded_url": "https://t.me/CrystallizeClub",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2068202326494724096/6Qkm6DJ3?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2068202326494724096/6Qkm6DJ3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 11,
+          "status": 200,
+          "title": "结晶化 - Crystallize.Club ｜ 催情药化学OD嗨药约炮男娘同性恋雌堕自残智能合约讨论精神病院",
+          "unwound_url": "https://t.me/CrystallizeClub",
+          "url": "https://t.co/3I2EKjEUW9"
+        },
+        {
+          "description": "Crystallize Community",
+          "display_url": "crystallize.club",
+          "end": 71,
+          "expanded_url": "http://crystallize.club",
+          "start": 48,
+          "status": 200,
+          "title": "社区首页 | Crystallize",
+          "unwound_url": "http://crystallize.club",
+          "url": "https://t.co/sRPVEGxMxL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068202325353910428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中推药圈目前最大的群组https://t.co/3I2EKjEUW9\n以及不会被封号的自由论坛\nhttps://t.co/sRPVEGxMxL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068179877334016000",
+        "conversation_id": "2068202325353910428",
+        "created_at": "2026-06-20T05:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068202325353910428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "精神至上，意识结晶化。 跳出平庸，感官结晶化。 官网： https://Crystallize.Club 本群不出售任何产品，不为任何交易担保请各位注意辨别高仿诈骗等！ 本群不含有以下成分 #rc #adhd #促智药 #overdose #抑郁症 #精神物质 #gay #mtf #自残 #跨性别 #nsfw #嗨操 #researchchemicals #nps #精神活性物质 #能材 #tscd #药娘 #伪娘 #同性恋 #灰产 #TCC #雌堕 #智能合约 #化学 #化工 #隐私极客",
+              "display_url": "t.me/CrystallizeClub",
+              "end": 34,
+              "expanded_url": "https://t.me/CrystallizeClub",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2068202326494724096/6Qkm6DJ3?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068202326494724096/6Qkm6DJ3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "结晶化 - Crystallize.Club ｜ 催情药化学OD嗨药约炮男娘同性恋雌堕自残智能合约讨论精神病院",
+              "unwound_url": "https://t.me/CrystallizeClub",
+              "url": "https://t.co/3I2EKjEUW9"
+            },
+            {
+              "description": "Crystallize Community",
+              "display_url": "crystallize.club",
+              "end": 71,
+              "expanded_url": "http://crystallize.club",
+              "start": 48,
+              "status": 200,
+              "title": "社区首页 | Crystallize",
+              "unwound_url": "http://crystallize.club",
+              "url": "https://t.co/sRPVEGxMxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068202325353910428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中推药圈目前最大的群组https://t.co/3I2EKjEUW9\n以及不会被封号的自由论坛\nhttps://t.co/sRPVEGxMxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-20T03:52:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AM",
+              "full_name": "Armenia",
+              "geo": {
+                "coordinates": [
+                  45.0,
+                  40.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "kenrobb二娃 刘乙亮\n结晶化论坛 网站端到端加密 不会被封号\n推特 TG天天被封号的情况下中推最好的选择\n无论你是药圈的 还是跨圈 币圈 等等圈子\n来https://t.co/Iqj5TWz1rX注册账号 随便耍不用担心\n永远不会被封号的安全感！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 101,
+                "expanded_url": "http://crystallize.club",
+                "start": 78,
+                "url": "https://t.co/Iqj5TWz1rX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "http://crystallize.club",
+                "start": 0,
+                "url": "https://t.co/Iqj5TWz1rX"
+              }
+            ]
+          }
+        },
+        "id": "2068179877334016000",
+        "location": "Leave me alone",
+        "name": "kenrobb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068180632942055424/6qQQNQaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/Iqj5TWz1rX",
+        "username": "kenrobbcrazyy",
+        "verified": false
+      }
+    ]
+  }
+}
