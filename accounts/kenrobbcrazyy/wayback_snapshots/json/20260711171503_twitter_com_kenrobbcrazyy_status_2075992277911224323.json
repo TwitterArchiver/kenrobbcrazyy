@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2068179877334016000",
+    "conversation_id": "2075992277911224323",
+    "created_at": "2026-07-11T17:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075992277911224323"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "心宿二"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032059814348754944",
+          "start": 3,
+          "username": "KrvyScorpii"
+        },
+        {
+          "end": 82,
+          "id": "1556279645502427136",
+          "start": 69,
+          "username": "tianxiao0502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075992277911224323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075894585952498141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KrvyScorpii: Krvy #心宿二 于2026年7月11日18时44分退出药圈，同时psydrugs项目将与近日转交给 @tianxiao0502 ，感谢各位陪伴有缘再见。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068179877334016000",
+        "conversation_id": "2075992277911224323",
+        "created_at": "2026-07-11T17:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075992277911224323"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "心宿二"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032059814348754944",
+              "start": 3,
+              "username": "KrvyScorpii"
+            },
+            {
+              "end": 82,
+              "id": "1556279645502427136",
+              "start": 69,
+              "username": "tianxiao0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075992277911224323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075894585952498141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KrvyScorpii: Krvy #心宿二 于2026年7月11日18时44分退出药圈，同时psydrugs项目将与近日转交给 @tianxiao0502 ，感谢各位陪伴有缘再见。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032059814348754944",
+        "conversation_id": "2075894585952498141",
+        "created_at": "2026-07-11T10:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075894585952498141"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "心宿二"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 65,
+              "id": "1556279645502427136",
+              "start": 52,
+              "username": "tianxiao0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075894585952498141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1944,
+          "like_count": 13,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Krvy #心宿二 于2026年7月11日18时44分退出药圈，同时psydrugs项目将与近日转交给 @tianxiao0502 ，感谢各位陪伴有缘再见。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-20T03:52:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AM",
+              "full_name": "Armenia",
+              "geo": {
+                "coordinates": [
+                  45.0,
+                  40.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药物百科官方账号 有报告欢迎私信投稿 wiki主玄鸮:@Manglesuki｜提供免费药物咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/yN1sBv8r0G"
+              }
+            ]
+          }
+        },
+        "id": "2068179877334016000",
+        "location": "Leave me alone",
+        "name": "药物百科流亡政府",
+        "pinned_tweet_id": "2074700150166167980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074697509218451456/NpoLVx4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 19,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/yN1sBv8r0G",
+        "username": "kenrobbcrazyy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "这里是krvy，pdw wiki管理员 不写wiki的贝斯手",
+        "id": "2032059814348754944",
+        "name": "Krvy #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 76,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "KrvyScorpii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "曾pdw副wiki主 现暂任wiki主编/叫我天晓\npdw官号@Psydrugswiki\n里推@maimai_Prism_\n🍐妈妈@K1ku21_ \nkr @KrvyScorpii\n苦力怕@Akinoyo_desu\n彻子@aokitetsu111\n叶子@WinbornN94577\n苦瓜大人@C4usT1c_03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Psydrugswiki"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "maimai_Prism_"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "KrvyScorpii"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "aokitetsu111"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "WinbornN94577"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "C4usT1c_03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "庄俞南路 1号",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2049637066645053756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041020314524815360/KxdTr0Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 201,
+          "like_count": 1808,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1530
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": true
+      }
+    ]
+  }
+}

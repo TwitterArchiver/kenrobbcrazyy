@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2068179877334016000",
+    "conversation_id": "2077328013000335815",
+    "created_at": "2026-07-15T09:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077328013000335815"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077328013000335815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喹硫平是全方位无死角攻击你的受体们以产生作用 所以 理所当然的 副作用和不良反应也很多很多 嗜睡 低血压 暴食 等等 甚至会引起一些罕见疾病 喹硫平作为很多od药物的下机药 实际上并不是下机 而是让你强制关机睡着 就没这么难受了而已 你是愿意使用喹硫平和奥氮平等抗精神病药成为“健全人”还是………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068179877334016000",
+        "conversation_id": "2077328013000335815",
+        "created_at": "2026-07-15T09:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077328013000335815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077328013000335815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喹硫平是全方位无死角攻击你的受体们以产生作用 所以 理所当然的 副作用和不良反应也很多很多 嗜睡 低血压 暴食 等等 甚至会引起一些罕见疾病 喹硫平作为很多od药物的下机药 实际上并不是下机 而是让你强制关机睡着 就没这么难受了而已 你是愿意使用喹硫平和奥氮平等抗精神病药成为“健全人”还是………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-20T03:52:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AM",
+              "full_name": "Armenia",
+              "geo": {
+                "coordinates": [
+                  45.0,
+                  40.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药物百科官方账号 有报告欢迎私信投稿 wiki主玄鸮:@Manglesuki｜提供免费药物咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/yN1sBv8r0G"
+              }
+            ]
+          }
+        },
+        "id": "2068179877334016000",
+        "location": "Leave me alone",
+        "name": "药物百科流亡政府",
+        "pinned_tweet_id": "2074700150166167980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074697509218451456/NpoLVx4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 23,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/yN1sBv8r0G",
+        "username": "kenrobbcrazyy",
+        "verified": false
+      }
+    ]
+  }
+}
