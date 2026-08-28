@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2068179877334016000",
+    "conversation_id": "2079660558257910010",
+    "created_at": "2026-07-21T20:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T21:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079660558257910010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huaxiangdiea/s…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/huaxiangdiea/status/2079652374675882032",
+          "start": 133,
+          "url": "https://t.co/v8LXwtM63b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079660558257910010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079652374675882032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看啊看啊 谁来了？你自己打这段话的时候笑没笑啊，没有我们oder们就不会od了？你是不是磕了 疯子 不要觉得我不知道你是谁 你自己说过保证不会再回药圈了 我怎么不知道我的影响力这么大呢 看到我的帖子一个正常人就会去od了？\n精神病发作就回医院 别来我这发疯  疯子 https://t.co/v8LXwtM63b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068179877334016000",
+        "conversation_id": "2079660558257910010",
+        "created_at": "2026-07-21T20:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T21:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079660558257910010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huaxiangdiea/s…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/huaxiangdiea/status/2079652374675882032",
+              "start": 133,
+              "url": "https://t.co/v8LXwtM63b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079660558257910010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079652374675882032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看啊看啊 谁来了？你自己打这段话的时候笑没笑啊，没有我们oder们就不会od了？你是不是磕了 疯子 不要觉得我不知道你是谁 你自己说过保证不会再回药圈了 我怎么不知道我的影响力这么大呢 看到我的帖子一个正常人就会去od了？\n精神病发作就回医院 别来我这发疯  疯子 https://t.co/v8LXwtM63b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079623281263706112",
+        "conversation_id": "2074700150166167980",
+        "created_at": "2026-07-21T19:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079652374675882032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2068179877334016000",
+              "start": 0,
+              "username": "kenrobbcrazyy"
+            },
+            {
+              "end": 26,
+              "id": "1886054681635704832",
+              "start": 15,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079652374675882032",
+        "in_reply_to_user_id": "2068179877334016000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074700150166167980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenrobbcrazyy @Manglesuki 药物百科现在是谁在负责掌权？\n算了这不重要 你知道你们网站害了多少人吗？？？\n有多少本不了解od的普通的推友刷到你的帖子从而去看你的网站了解od进入od圈？？？\n你们承不承认你们在害人\n你们获得了本不该属于你们的流量\n所有wiki都一样\n药物百科、pdw、fow、化百、odw\n全都是一群杀人犯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-20T03:52:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AM",
+              "full_name": "Armenia",
+              "geo": {
+                "coordinates": [
+                  45.0,
+                  40.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药物百科官方账号 有报告欢迎私信投稿 wiki主玄鸮:@Manglesuki｜提供免费药物咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/yN1sBv8r0G"
+              }
+            ]
+          }
+        },
+        "id": "2068179877334016000",
+        "location": "Leave me alone",
+        "name": "药物百科流亡政府",
+        "pinned_tweet_id": "2074700150166167980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074697509218451456/NpoLVx4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 31,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/yN1sBv8r0G",
+        "username": "kenrobbcrazyy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T17:44:21.000Z",
+        "description": "我和死亡处成了朋友 从地狱归来之人\n想知道我是谁吗？来了解我吧\n只是一只代表死亡的蝴蝶…\n药圈和平 减害主义 请爱我 永远",
+        "id": "2079623281263706112",
+        "location": "hell",
+        "name": "花乡蝶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079623941732331520/W9QuYVqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "huaxiangdiea",
+        "verified": false
+      }
+    ]
+  }
+}

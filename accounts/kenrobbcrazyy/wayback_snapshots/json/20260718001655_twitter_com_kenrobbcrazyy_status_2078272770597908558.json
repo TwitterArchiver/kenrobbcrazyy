@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1994577229645234177"
+      ],
+      "media_source_tweet_id": [
+        "1994577261148999833"
+      ]
+    },
+    "author_id": "2068179877334016000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078272770597908558",
+    "created_at": "2026-07-18T00:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T01:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078272770597908558"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 108,
+          "tag": "drugtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882624452980269056",
+          "start": 3,
+          "username": "br4ineater_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qwv0djoOEF",
+          "end": 140,
+          "expanded_url": "https://x.com/br4ineater_/status/1994577261148999833/video/1",
+          "media_key": "7_1994577229645234177",
+          "start": 117,
+          "url": "https://t.co/Qwv0djoOEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078272770597908558",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 376
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994577261148999833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @br4ineater_: Me puse ansioso viendo esto pq cómo así qbeste wey soy yo y ya no hago esto (quiero morir) #drugtwt https://t.co/Qwv0djoOEF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22685,
+        "height": 720,
+        "media_key": "7_1994577229645234177",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994577229645234177/pu/img/0ekOFpQ-tV-50aoN.jpg",
+        "public_metrics": {
+          "view_count": 110181
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994577229645234177/pu/vid/avc1/360x270/fMpyMWoT-4uqkipO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994577229645234177/pu/vid/avc1/480x360/DWvrL2NHGydEMQNx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994577229645234177/pu/vid/avc1/960x720/ThuazOcV1zjfjYUN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994577229645234177/pu/pl/YyMC5wxMBq91dsEC.m3u8?tag=12&v=92d"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994577229645234177"
+          ]
+        },
+        "author_id": "1882624452980269056",
+        "conversation_id": "1994577261148999833",
+        "created_at": "2025-11-29T01:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994577261148999833"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 91,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qwv0djoOEF",
+              "end": 123,
+              "expanded_url": "https://x.com/br4ineater_/status/1994577261148999833/video/1",
+              "media_key": "7_1994577229645234177",
+              "start": 100,
+              "url": "https://t.co/Qwv0djoOEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994577261148999833",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 811,
+          "impression_count": 180917,
+          "like_count": 4467,
+          "quote_count": 14,
+          "reply_count": 77,
+          "retweet_count": 376
+        },
+        "reply_settings": "everyone",
+        "text": "Me puse ansioso viendo esto pq cómo así qbeste wey soy yo y ya no hago esto (quiero morir) #drugtwt https://t.co/Qwv0djoOEF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994577229645234177"
+          ],
+          "media_source_tweet_id": [
+            "1994577261148999833"
+          ]
+        },
+        "author_id": "2068179877334016000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078272770597908558",
+        "created_at": "2026-07-18T00:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078272770597908558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 108,
+              "tag": "drugtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882624452980269056",
+              "start": 3,
+              "username": "br4ineater_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qwv0djoOEF",
+              "end": 140,
+              "expanded_url": "https://x.com/br4ineater_/status/1994577261148999833/video/1",
+              "media_key": "7_1994577229645234177",
+              "start": 117,
+              "url": "https://t.co/Qwv0djoOEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078272770597908558",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 376
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994577261148999833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @br4ineater_: Me puse ansioso viendo esto pq cómo así qbeste wey soy yo y ya no hago esto (quiero morir) #drugtwt https://t.co/Qwv0djoOEF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-20T03:52:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AM",
+              "full_name": "Armenia",
+              "geo": {
+                "coordinates": [
+                  45.0,
+                  40.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药物百科官方账号 有报告欢迎私信投稿 wiki主玄鸮:@Manglesuki｜提供免费药物咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/yN1sBv8r0G"
+              }
+            ]
+          }
+        },
+        "id": "2068179877334016000",
+        "location": "Leave me alone",
+        "name": "药物百科流亡政府",
+        "pinned_tweet_id": "2074700150166167980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074697509218451456/NpoLVx4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 24,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/yN1sBv8r0G",
+        "username": "kenrobbcrazyy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T03:01:28.000Z",
+        "description": "Sí, yo inventé el flop  |  #drugtwt (recov) + #shedtwt + #drunktwt + #suicidetwt + #sowytwt. any pronouns. dni: -16 & +26",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 27,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "tag": "drunktwt"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "suicidetwt"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "tag": "sowytwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tuputamadre.com",
+                "end": 23,
+                "expanded_url": "http://tuputamadre.com",
+                "start": 0,
+                "url": "https://t.co/VCETB8Swcf"
+              }
+            ]
+          }
+        },
+        "id": "1882624452980269056",
+        "location": "18yo ★ cdmx",
+        "name": "Lucifer 🇵🇸 | Recovery! ★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070283926560522240/AVd7HtCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3975,
+          "following_count": 836,
+          "like_count": 14352,
+          "listed_count": 6,
+          "media_count": 515,
+          "tweet_count": 8748
+        },
+        "url": "https://t.co/VCETB8Swcf",
+        "username": "br4ineater_",
+        "verified": false
+      }
+    ]
+  }
+}

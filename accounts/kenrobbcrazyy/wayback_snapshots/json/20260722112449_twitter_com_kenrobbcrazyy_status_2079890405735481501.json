@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2068179877334016000",
+    "conversation_id": "2079890405735481501",
+    "created_at": "2026-07-22T11:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T12:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079890405735481501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2079101403029725184",
+          "start": 3,
+          "username": "mingrentangRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079890405735481501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079550950189174784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mingrentangRC: 产品具体上线时间初步定于开奖日同日，可能会提前发售。\n中奖者请向我或公开提供一份使用报告。\n该产品为PCP衍生物，属解离剂和SDNRI，请确认是否要参与抽奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068179877334016000",
+        "conversation_id": "2079890405735481501",
+        "created_at": "2026-07-22T11:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079890405735481501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2079101403029725184",
+              "start": 3,
+              "username": "mingrentangRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079890405735481501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079550950189174784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mingrentangRC: 产品具体上线时间初步定于开奖日同日，可能会提前发售。\n中奖者请向我或公开提供一份使用报告。\n该产品为PCP衍生物，属解离剂和SDNRI，请确认是否要参与抽奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079101403029725184",
+        "conversation_id": "2079550950189174784",
+        "created_at": "2026-07-21T12:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079550950189174784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mingrentangRC/…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/mingrentangRC/status/2079549978868162909",
+              "start": 79,
+              "url": "https://t.co/MeC9yl5elW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079550950189174784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079549978868162909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "产品具体上线时间初步定于开奖日同日，可能会提前发售。\n中奖者请向我或公开提供一份使用报告。\n该产品为PCP衍生物，属解离剂和SDNRI，请确认是否要参与抽奖 https://t.co/MeC9yl5elW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-20T03:52:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AM",
+              "full_name": "Armenia",
+              "geo": {
+                "coordinates": [
+                  45.0,
+                  40.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药物百科官方账号 有报告欢迎私信投稿 wiki主玄鸮:@Manglesuki｜提供免费药物咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/yN1sBv8r0G"
+              }
+            ]
+          }
+        },
+        "id": "2068179877334016000",
+        "location": "Leave me alone",
+        "name": "药物百科流亡政府",
+        "pinned_tweet_id": "2074700150166167980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074697509218451456/NpoLVx4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 32,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/yN1sBv8r0G",
+        "username": "kenrobbcrazyy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T07:10:24.000Z",
+        "description": "这里是名人堂梦工场，经营策划药、RC相关及解决方案。不管您是oder、渠道商、分销商，都可以在这里找到自己的产品和定位\n全网最注重合规、安全的RC策划药商\n坚定的RC成分公开支持者\n联合创始人/合规与策划合伙人：x-square「公子」@xx1012000456\n敬请期待",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "xx1012000456"
+              }
+            ]
+          }
+        },
+        "id": "2079101403029725184",
+        "name": "名人堂梦工场RC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079256553837010944/4MunitEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "mingrentangRC",
+        "verified": false
+      }
+    ]
+  }
+}

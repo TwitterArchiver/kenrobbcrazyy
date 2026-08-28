@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2068179877334016000",
+    "conversation_id": "2074700150166167980",
+    "created_at": "2026-07-22T13:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079918172468375607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079623281263706112",
+          "start": 0,
+          "username": "huaxiangdiea"
+        },
+        {
+          "end": 25,
+          "id": "1886054681635704832",
+          "start": 14,
+          "username": "Manglesuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079918172468375607",
+    "in_reply_to_user_id": "2079623281263706112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079652374675882032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxiangdiea @Manglesuki 您是否遇到以下几个问题：1亲人因药物过量去世或导致家庭分崩离析2朋友因药物过量去世或导致决裂，不管怎样我都深感悲切，我为您深切地、真心地感到您活该"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068179877334016000",
+        "conversation_id": "2074700150166167980",
+        "created_at": "2026-07-22T13:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079918172468375607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079623281263706112",
+              "start": 0,
+              "username": "huaxiangdiea"
+            },
+            {
+              "end": 25,
+              "id": "1886054681635704832",
+              "start": 14,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079918172468375607",
+        "in_reply_to_user_id": "2079623281263706112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079652374675882032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxiangdiea @Manglesuki 您是否遇到以下几个问题：1亲人因药物过量去世或导致家庭分崩离析2朋友因药物过量去世或导致决裂，不管怎样我都深感悲切，我为您深切地、真心地感到您活该"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079623281263706112",
+        "conversation_id": "2074700150166167980",
+        "created_at": "2026-07-21T19:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079652374675882032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2068179877334016000",
+              "start": 0,
+              "username": "kenrobbcrazyy"
+            },
+            {
+              "end": 26,
+              "id": "1886054681635704832",
+              "start": 15,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079652374675882032",
+        "in_reply_to_user_id": "2068179877334016000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3080,
+          "like_count": 5,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074700150166167980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenrobbcrazyy @Manglesuki 药物百科现在是谁在负责掌权？\n算了这不重要 你知道你们网站害了多少人吗？？？\n有多少本不了解od的普通的推友刷到你的帖子从而去看你的网站了解od进入od圈？？？\n你们承不承认你们在害人\n你们获得了本不该属于你们的流量\n所有wiki都一样\n药物百科、pdw、fow、化百、odw\n全都是一群杀人犯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-20T03:52:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AM",
+              "full_name": "Armenia",
+              "geo": {
+                "coordinates": [
+                  45.0,
+                  40.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "药物百科官方账号 有报告欢迎私信投稿 wiki主玄鸮:@Manglesuki｜提供免费药物咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/yN1sBv8r0G"
+              }
+            ]
+          }
+        },
+        "id": "2068179877334016000",
+        "location": "Leave me alone",
+        "name": "药物百科流亡政府",
+        "pinned_tweet_id": "2074700150166167980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074697509218451456/NpoLVx4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 33,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/yN1sBv8r0G",
+        "username": "kenrobbcrazyy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T17:44:21.000Z",
+        "description": "我和死亡处成了朋友 从地狱归来之人\n想知道我是谁吗？来了解我吧\n只是一只代表死亡的蝴蝶…\n药圈和平 减害主义 请爱我 永远",
+        "id": "2079623281263706112",
+        "location": "hell",
+        "name": "花乡蝶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079623941732331520/W9QuYVqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "huaxiangdiea",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜爱人@TUTU16016｜ENTP｜女生｜泛性恋｜药物百科wiki主原@yaowubaike现@kenrobbcrazyy｜边缘型BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "TUTU16016"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yaowubaike"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "kenrobbcrazyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077495322423738368/CahYMGJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 117,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}
